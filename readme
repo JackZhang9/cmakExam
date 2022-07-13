@@ -1,0 +1,6 @@
+下载下去，
+创建一个空build文件夹，
+输入cmake ..
+make
+即可编译好
+[具体看] (https://blog.csdn.net/qq_42650246/article/details/125755779?spm=1001.2014.3001.5501)
